@@ -1,0 +1,8 @@
+body {
+    font-family: monospace;
+    background-color: #0f9df0;
+  }
+  
+  .app {
+   max-height: 100vh; 
+  }
